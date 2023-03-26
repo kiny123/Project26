@@ -22,7 +22,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
     var motionManager: CMMotionManager?
     var scoreLabel: SKLabelNode!
     var isGameOver = false
-
+    var what: SKLabelNode!
 
     var score = 0 {
         didSet {
