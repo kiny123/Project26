@@ -14,6 +14,7 @@
 		11D5F9C429CDF6AB004B6190 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11D5F9C229CDF6AB004B6190 /* Main.storyboard */; };
 		11D5F9C629CDF6B3004B6190 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11D5F9C529CDF6B3004B6190 /* Assets.xcassets */; };
 		11D5F9D029CDF6F8004B6190 /* level1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 11D5F9CF29CDF6F8004B6190 /* level1.txt */; };
+		11D5F9D429D175EF004B6190 /* level2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 11D5F9D329D175EF004B6190 /* level2.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		11D5F9C529CDF6B3004B6190 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		11D5F9C729CDF6B3004B6190 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		11D5F9CF29CDF6F8004B6190 /* level1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = level1.txt; sourceTree = "<group>"; };
+		11D5F9D329D175EF004B6190 /* level2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = level2.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				11D5F9C529CDF6B3004B6190 /* Assets.xcassets */,
 				11D5F9C729CDF6B3004B6190 /* Info.plist */,
 				11D5F9CF29CDF6F8004B6190 /* level1.txt */,
+				11D5F9D329D175EF004B6190 /* level2.txt */,
 			);
 			path = Project26;
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				11D5F9D429D175EF004B6190 /* level2.txt in Resources */,
 				11D5F9C429CDF6AB004B6190 /* Main.storyboard in Resources */,
 				11D5F9D029CDF6F8004B6190 /* level1.txt in Resources */,
 				11D5F9BB29CDF6AB004B6190 /* GameScene.sks in Resources */,
